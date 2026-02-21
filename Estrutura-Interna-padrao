@@ -1,0 +1,128 @@
+# 🎮 Lumix Studio — Padrão Oficial de Repositórios e Estrutura Interna
+
+Olá 👋  
+
+Este documento define o padrão oficial de estrutura interna dos projetos da Lumix Studio.
+
+A padronização é essencial para:
+
+- Evitar desorganização
+- Facilitar manutenção
+- Ajudar novos desenvolvedores
+- Reduzir retrabalho
+- Garantir escalabilidade
+
+Todos os projetos devem seguir este padrão obrigatoriamente.
+
+--- 
+
+# 📂 1️⃣ PADRÃO DE ESTRUTURA INTERNA DOS JOGOS (Construct 3)
+
+Todos os repositórios de jogos devem conter a seguinte estrutura mínima:
+
+lumix-nome-do-jogo
+├── project/
+├── build-web/
+├── assets/
+├── docs/
+└── README.md
+
+---
+
+## 📁 project/
+
+### O que deve conter:
+- Arquivo principal do jogo (.c3p)
+
+### Por que essa pasta existe?
+Mantém o projeto original separado dos arquivos exportados.
+Evita confusão e facilita backup.
+
+⚠️ Nunca misturar arquivos de build aqui.
+
+---
+
+## 📁 build-web/
+
+### O que deve conter:
+- Arquivos exportados para Web (HTML5)
+- index.html
+- scripts
+- imagens geradas pelo export
+
+### Por que essa pasta existe?
+Separar o jogo jogável do projeto editável.
+Permite apagar e recriar sem afetar o desenvolvimento.
+
+⚠️ Esta pasta pode ser apagada e recriada a qualquer momento.
+
+---
+
+## 📁 assets/
+
+Estrutura obrigatória:
+
+assets/
+├── sprites/
+├── audio/
+├── fonts/
+└── ui/
+
+### O que deve conter:
+Arquivos originais utilizados no desenvolvimento:
+- Sprites
+- Sons
+- Músicas
+- Fontes
+- Elementos de interface
+
+### Por que essa pasta existe?
+Organização clara dos recursos.
+Evita arquivos espalhados.
+Facilita reaproveitamento em outros projetos.
+
+⚠️ Não colocar arquivos soltos na raiz do projeto.
+
+---
+
+## 📁 docs/
+
+### O que deve conter:
+- Ideias
+- Mecânicas
+- Roadmap
+- Anotações de desenvolvimento
+- Planejamento
+
+### Por que essa pasta existe?
+Centralizar informações importantes do projeto.
+Evita perda de decisões importantes.
+
+---
+
+## 📄 README.md (Obrigatório)
+
+Todos os projetos devem conter README com no mínimo:
+
+# Nome do Jogo
+
+## 🎯 Gênero  
+## 🛠️ Engine  
+## 💻 Plataforma  
+## 📊 Status  
+## 👨‍💻 Responsáveis  
+
+---
+
+# 🚨 Regras Gerais
+
+- Não misturar arquivos de build com arquivos de projeto.
+- Não deixar arquivos soltos na raiz.
+- Todos os jogos devem seguir exatamente a mesma estrutura.
+- Qualquer alteração estrutural deve ser aprovada pelos Owners ou Administradores.
+
+---
+
+A organização é responsabilidade de todos.
+
+Lumix Studio 🚀
