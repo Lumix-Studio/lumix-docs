@@ -1,18 +1,71 @@
-Olá 👋! Bem-vindo à documentação geral da Lumix Studio de topicos ou "tags", caso prefira.
-Aqui você verá o padrão de organização da Lumix que os devs devem seguir para que tenham seus repositórios aceitos pelos moderadores,
-lembre-se que a organização é essencial para todos, então siga as instruções!
+# 🎮 Lumix Studio — Padrão Oficial de Topics (Tags)
 
-Nós estamos sempre priorizando a organização então siga as instruções, não precisa ser só isso você poderá ter a liberdade de adicionar novos topicos
-caso você pense que seja necessário, mas caso for esse o caso converse com os donos ou com os adms responsáveis.
+Olá 👋  !
+Bem-vindo à documentação oficial de padronização de Topics da Lumix Studio.
 
-Todos os repositórios devem ter no máximo 6 topicos diferentes!
-Todos os tópicos devem ser escritos em LETRAS MINÚSCULAS e NÃO USE ESPAÇO utilize hífen no lugar(-)!
+A organização dos repositórios é essencial para mantermos clareza, profissionalismo e escalabilidade dentro do estúdio.
 
--Especificações-
+Todos os desenvolvedores devem seguir este padrão para que seus repositórios sejam aprovados pela moderação.
 
-Todos os repositórios de jogos devem ter os seguintes topicos:
-1⁰ > Plataforma(pc, mobile ou web)
-2⁰ > o nome da engine usada
-3⁰ > status
-4⁰ > tipo (ação, terror, etc)
+---
 
+## 📌 Regras Gerais
+
+- Cada repositório deve conter NO MAXIMO 6 TOPCS.
+- Todos os topics devem ser escritos:
+  - Em letras minúsculas
+  - Sem espaços
+  - Utilizando hífen (-) quando necessário
+- Caso seja necessário adicionar um novo padrão de topic, consulte previamente os Owners ou Administradores.
+
+---
+
+## 🎮 Requisitos Obrigatórios para Repositórios de Jogos
+
+Todos os repositórios de jogos devem conter obrigatoriamente os seguintes topics:
+
+### 1️⃣ Plataforma
+Indica onde o jogo será publicado:
+- `pc`
+- `mobile`
+- `web`
+
+---
+
+### 2️⃣ Engine
+Indica a engine utilizada no desenvolvimento:
+- `construct3`
+(Outras engines podem ser adicionadas conforme necessário)
+
+---
+
+### 3️⃣ Status do Projeto
+Define o estágio atual do desenvolvimento:
+- `prototype`
+- `in-development`
+- `released`
+
+---
+
+### 4️⃣ Gênero do Jogo
+Define o tipo do jogo:
+- `action`
+- `horror`
+- `platformer`
+- `puzzle`
+- `rpg`
+(Outros gêneros podem ser adicionados conforme necessidade)
+
+---
+
+## 📌 Exemplo de Aplicação Correta
+
+Um jogo de terror para web em desenvolvimento feito no Construct deve conter:
+
+horror web construct3 in-development
+
+---
+
+A organização é responsabilidade de todos.
+
+Lumix Studio 🚀
