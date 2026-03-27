@@ -42,6 +42,29 @@ Evita confusão e facilita backup.
 
 ---
 
+## 📁  PADRÃO DE ESTRUTURA INTERNA DOS JOGOS (Outros)/
+Todos os repositórios de jogos devem conter a seguinte estrutura mínima:
+
+lumix-nome-do-jogo
+├── project/e
+├── build-web/
+├── assets/
+├── docs/
+└── README.md
+
+---
+
+## 📁 project/
+
+### O que deve conter:
+- Arquivo principal do jogo (.Exe(exenlo, mas será outro tipo, vai depender da engine)
+
+### Por que essa pasta existe?
+Mantém o projeto original separado dos arquivos exportados.
+Evita confusão e facilita backup.
+
+⚠️ Nunca misturar arquivos de build aqui.
+
 ## 📁 build-web/
 
 ### O que deve conter:
