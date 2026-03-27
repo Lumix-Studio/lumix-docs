@@ -6,5 +6,6 @@ Esta pasta contém todas as regras, padrões e processos que devem ser seguidos 
 Documentação de padrões da Lumix Studio 
 Padrão de nome de arquivos;
 Regras;
+Contratos;
 etc...
 Todos devem ler essa documentação para entender e respeitar as regras esclarecidas pela Lumix Studio.
