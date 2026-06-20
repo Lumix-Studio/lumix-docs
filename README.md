@@ -1,7 +1,6 @@
 # 📚 Documentação Oficial — Lumix Studio
---
 
-# *Bem-vindo à documentação oficial da Lumix Studio.*
+**Bem-vindo à documentação oficial da Lumix Studio.**
 
 Este repositório reúne os padrões, regras e boas práticas adotados pela equipe para manter os projetos organizados, consistentes e fáceis de manter.
 
