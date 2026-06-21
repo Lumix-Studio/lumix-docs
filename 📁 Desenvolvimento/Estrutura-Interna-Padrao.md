@@ -14,6 +14,7 @@ res://
 ├── src/
 │   ├── autoloads
 │   ├── config
+|   ├── objects
 │   ├── entities/          # exemplo dos personagens
 │   │   ├── player/
 │   │   │   ├── assets/
