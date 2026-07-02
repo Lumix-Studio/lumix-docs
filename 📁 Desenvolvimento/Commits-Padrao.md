@@ -3,13 +3,14 @@ Para fins de organização, a Lumix tem um padrão de  mensagem específico para
 <br>
 Logo abaixo está os tipos:
 
-| Tipo | Função |
-| ---- | ------ |
-| feat | adiciona novas funcionalidades |
-| update | atualização e códigos |
-| fix | correção de bugs |
-| refactor | refatoração de código |
-| org | organização de arquivos |
+| Tipo     | Função |
+| -------- | ------ |
+| feat     | adiciona novas funcionalidades |
+| update   | modifica ou melhora funcionalidades existentes |
+| fix      | corrige erros, bugs ou código quebrado |
+| delete   | remove arquivos, recursos ou funcionalidades |
+| refactor | refatoração de código sem alterar comportamento |
+| org      | organização de arquivos |
 
 <br>
 
