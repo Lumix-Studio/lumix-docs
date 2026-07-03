@@ -20,5 +20,6 @@ Seguir estes padrões garante uma *melhor organização, facilita a colaboraçã
 
 ---
 
-Lumix Studio
+Copyright (c) 2026 Lumix Studio
+
 Criando experiências, construindo padrões.
