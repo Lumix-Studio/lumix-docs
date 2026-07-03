@@ -51,32 +51,6 @@ ProjetoLumix
 
 ---
 
-## 🌐 Repositório do Site Oficial
-
-Nome fixo:
-
-lumix-website
-
----
-
-## 📦 Template Base do Construct
-
-lumix-construct-base
-
----
-
-## 📂 Assets Compartilhados
-
-lumix-assets
-
----
-
-## 📄 Documentação Geral
-
-lumix-docs
-
----
-
 A organização é responsabilidade de todos.
 
 Lumix Studio 🚀
