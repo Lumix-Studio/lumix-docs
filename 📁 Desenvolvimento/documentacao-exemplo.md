@@ -31,15 +31,6 @@
     * **Retorno:** não há retorno
 
 
----
-### Explicações Extras:
 
-*Use esse campo para explicar trechos de código e como usar/integrar a outros sistemas*
-
-exemplo:
-
-Use ``Função_1`` para calcular... pois retorna X
-```
-var resultado = funcao_1(2, 2.0)
-...
-```
+### Funcionamento interno
+*Escreva como o código funciona*

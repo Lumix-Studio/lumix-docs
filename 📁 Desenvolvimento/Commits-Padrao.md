@@ -11,7 +11,7 @@ Logo abaixo está os tipos:
 | delete   | remove arquivos, recursos ou funcionalidades       |
 | refactor | refatoração de código sem alterar comportamento    |
 | org      | organização de arquivos                            |
-| doc      | alterações da documentação de projeto & código     |
+| docs      | alterações da documentação de projeto & código     |
 
 <br>
 
