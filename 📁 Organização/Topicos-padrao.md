@@ -1,6 +1,7 @@
 # 🎮 Lumix Studio — Padrão Oficial de Topics (Tags)
 
 Olá 👋  !
+
 Bem-vindo à documentação oficial de padronização de Topics da Lumix Studio.
 
 A organização dos repositórios é essencial para mantermos clareza, profissionalismo e escalabilidade dentro do estúdio.
